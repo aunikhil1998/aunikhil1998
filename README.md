@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm A QA Automation Engineer working with apexon<br>Skills: Manual testing,Core java, Selenium, TestNg, POM, API testing, Postman, SQL, Functional testing, JIRA, HP ALM, GIT.
+Experienced QA Automation Engineer working with apexon<br>Skills: Manual testing,Core java, Selenium, TestNg, POM, API testing, Postman, SQL, Functional testing, JIRA, HP ALM, GIT.
 
 
 ## 🌐 Socials:
