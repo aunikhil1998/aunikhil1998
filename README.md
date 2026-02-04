@@ -2,10 +2,10 @@
 Hi there 👋  
 I'm a **QA Automation Engineer** focused on building clean, scalable, and reliable test automation solutions.
 
-- 🧪 Automation: Selenium, Java, TestNG, Maven  
+- 🧪 Automation: Selenium, Java, TestNG, Maven, POM
 - 🌐 API Testing: Postman  
 - 🚀 CI/CD mindset & quality-first approach  
-- 🌱 Learning: Playwright, TypeScript, advanced API automation  
+- 🌱 Learning: Playwright, TypeScript, Gen AI using Playwright  
 
 ---
 
