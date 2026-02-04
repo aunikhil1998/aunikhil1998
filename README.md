@@ -34,8 +34,4 @@ I'm a **QA Automation Engineer** focused on building clean, scalable, and reliab
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=aunikhil1998&theme=onedark&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
